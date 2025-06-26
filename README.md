@@ -10,3 +10,5 @@ kubectl apply -f flask_k8s/
 ```
 
 ## Пример работы:
+
+![Снимок экрана от 2025-06-26 13-47-19](https://github.com/user-attachments/assets/935a7c4d-c4d4-4093-88a6-295ac469a697)
